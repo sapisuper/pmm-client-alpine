@@ -1,5 +1,7 @@
 FROM alpine:latest
 
+MAINTAINER Satria Dwi Putra <satria11t2@gmail.com>
+
 ENV MONIT_VERSION=5.25.2
 
 # Compile and install monit
